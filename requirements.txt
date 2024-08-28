@@ -1,0 +1,9 @@
+Flask
+Flask-Admin
+Flask-Cors
+flask-marshmallow
+Flask-RESTful
+Flask-SQLAlchemy
+marshmallow-sqlalchemy
+pillow
+python-slugify
